@@ -8,4 +8,7 @@ module Readgex
 
   # Raised when the beginning of input is reached in a rewind.
   class BeginningOfInputError < ReadgexError; end
+
+  # Raised when the input does not match the parser.
+  class MismatchError < ReadgexError; end
 end
