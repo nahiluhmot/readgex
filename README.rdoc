@@ -1,6 +1,6 @@
 = readgex
 
-Description goes here.
+Readable regular expressions (real readme coming soon!).
 
 == Contributing to readgex
  
